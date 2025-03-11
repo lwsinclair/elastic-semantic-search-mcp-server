@@ -1,5 +1,7 @@
 # MCP Server: Elasticsearch semantic search tool
 
+Demo repo for: https://j.blaszyk.me/tech-blog/mcp-server-elasticsearch-semantic-search/
+
 ## Table of Contents
 - [Overview](#overview)
 - [Running the MCP Server](#running-the-mcp-server)
