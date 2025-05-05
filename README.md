@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jedrazb-elastic-semantic-search-mcp-server-badge.png)](https://mseep.ai/app/jedrazb-elastic-semantic-search-mcp-server)
+
 # MCP Server: Elasticsearch semantic search tool
 
 Demo repo for: https://j.blaszyk.me/tech-blog/mcp-server-elasticsearch-semantic-search/
